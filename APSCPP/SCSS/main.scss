@@ -6,34 +6,25 @@
 **/
 
 
-/*
+/**
  Variables: to be reused throughout the sheet
-*/
+**/
 
-//Colors:
+/**
+Colors:
+*/
 $dark-blue-theme:#002145;
 $body-background-grey:#fafafa;
 $dark-moderate-blue-text: #2f5d7c;
 $background-dark-grey: #e6e6e6;
 
-//elements
+/**
+elements
+*/
 $border: 2px solid $dark-blue-theme;
 
-/*
- Extensions: CSS properties to be shared throughout the sheet
-*/
-
-/**
-%collective-property-name{
-    element: property;
-}
-
-**/
-
-/*
- Mixins: CSS declarations and functions to be reused throughout the sheet
-*/
-
+/* End of Variable declaration */
+/*******************************/
 
 .date-title,
 .italics,
