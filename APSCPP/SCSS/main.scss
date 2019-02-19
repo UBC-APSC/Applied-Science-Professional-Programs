@@ -10,9 +10,18 @@
  Variables: to be reused throughout the sheet
 */
 
+//Colors:
+$dark-blue-theme:#002145;
+$body-background-grey:#fafafa;
+$dark-moderate-blue-text: #2f5d7c;
+$background-dark-grey: #e6e6e6;
+
 /*
  Extensions: CSS properties to be shared throughout the sheet
 */
+%border-theme{
+	border: 2px solid #002145
+}
 
 /*
  Mixins: CSS declarations and functions to be reused throughout the sheet
